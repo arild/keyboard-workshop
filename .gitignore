@@ -1,4 +1,3 @@
-.idea/*
+build
+.idea
 *.iml
-target
-twitter.properties

@@ -1,1 +1,0 @@
-Workshop were we use Cassandra and Spark to create an optimized keyboard layout based on data from Github repositories
